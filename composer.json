@@ -1,5 +1,5 @@
 {
-  "name": "azadkh/framework",
+  "name": "azadkh/mvcframework",
   "authors": [
     {
       "name": "Azad421",
@@ -9,7 +9,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "azadkh\\mvcframework\\": "."
+      "azadkh\\mvcframework": "."
     }
   }
 }
