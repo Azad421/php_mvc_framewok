@@ -1,0 +1,15 @@
+{
+  "name": "azadkh/framework",
+  "authors": [
+    {
+      "name": "Azad421",
+      "email": "azadkh92558@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "azadkh\\mvcframework\\": "."
+    }
+  }
+}
